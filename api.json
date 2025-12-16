@@ -1,7 +1,7 @@
     {
     "clientVersionCode": 1,
     "URL_GAME_FILES" : "https://raw.githubusercontent.com/Mustaphasafa/mustapha-ariestryingapi-/main/game.7z",
-    "URL_GAME_FILES_1" : "https://raw.githubusercontent.com/Mustaphasafa/mustapha-ariestryingapi-/main/game.7z",
+    "URL_GAME_FILES_1" : "https://raw.githubusercontent.com/Mustaphasafa/mustapha-ariestryingapi-/main/client.7z",
     "URL_SERVERS": "https://raw.githubusercontent.com/Mustaphasafa/mustapha-ariestryingapi-/main/servers.json",
     "URL_GAME_FILES_DATA": "https://raw.githubusercontent.com/Mustaphasafa/mustapha-ariestryingapi-/main/files.json",
     "URL_VK": "http://vk.com/",
@@ -12,9 +12,10 @@
     "URL_TELEGRAM": "http://t.me/",
     "URL_FORUM": "http://",
     "URL_DONATE": "https://ru-state.online/donate/",
-    "URL_CLIENT": "http://65.21.98.47/client.apk"
+    "URL_CLIENT": "https://raw.githubusercontent.com/Mustaphasafa/mustapha-ariestryingapi-/main/client.apk"
 
 }
+
 
 
 
