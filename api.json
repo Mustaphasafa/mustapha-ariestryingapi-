@@ -1,6 +1,6 @@
     {
     "clientVersionCode": 1,
-    "URL_GAME_FILES" : "http://host/game.zip",
+    "URL_GAME_FILES" : "file:///storage/emulated/0/Download/game.zip",
     "URL_SERVERS": "https://raw.githubusercontent.com/Mustaphasafa/mustapha-ariestryingapi-/main/servers.json",
     "URL_GAME_FILES_DATA": "https://raw.githubusercontent.com/Mustaphasafa/mustapha-ariestryingapi-/main/files.json",
     "URL_VK": "http://vk.com/",
@@ -14,3 +14,4 @@
     "URL_CLIENT": "http://65.21.98.47/client.apk"
 
 }
+
