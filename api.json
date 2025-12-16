@@ -1,6 +1,6 @@
     {
     "clientVersionCode": 1,
-    "URL_GAME_FILES" : "file:///storage/emulated/0/Download/game.7z",
+    "URL_GAME_FILES" : "https://www.dropbox.com/scl/fi/2b57cq4mg90h4seb3m229/game.7z?rlkey=eyy5quwg0iu4pyqphifjlhtw7&st=bk9dfp1l&dl=1",
     "URL_SERVERS": "https://raw.githubusercontent.com/Mustaphasafa/mustapha-ariestryingapi-/main/servers.json",
     "URL_GAME_FILES_DATA": "https://raw.githubusercontent.com/Mustaphasafa/mustapha-ariestryingapi-/main/files.json",
     "URL_VK": "http://vk.com/",
@@ -14,5 +14,6 @@
     "URL_CLIENT": "http://65.21.98.47/client.apk"
 
 }
+
 
 
