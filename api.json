@@ -1,7 +1,6 @@
     {
     "clientVersionCode": 1,
     "URL_GAME_FILES" : "https://raw.githubusercontent.com/Mustaphasafa/mustapha-ariestryingapi-/main/game.7z",
-    "URL_GAME_FILES_0" : "https://raw.githubusercontent.com/Mustaphasafa/mustapha-ariestryingapi-/main/game.7z",
     "URL_GAME_FILES_1" : "https://raw.githubusercontent.com/Mustaphasafa/mustapha-ariestryingapi-/main/game.7z",
     "URL_SERVERS": "https://raw.githubusercontent.com/Mustaphasafa/mustapha-ariestryingapi-/main/servers.json",
     "URL_GAME_FILES_DATA": "https://raw.githubusercontent.com/Mustaphasafa/mustapha-ariestryingapi-/main/files.json",
@@ -16,6 +15,7 @@
     "URL_CLIENT": "http://65.21.98.47/client.apk"
 
 }
+
 
 
 
