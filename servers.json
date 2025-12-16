@@ -2,17 +2,11 @@
 	{
 		"ip": "188.127.241.8",
 		"port": 1290,
-		"name": "Aries RP #1"
-	},
-	{
-		"ip": "188.127.241.8",
-		"port": 1290,
-		"name": ""
-	},
-	{
-		"ip": "188.127.241.8",
-		"port": 1290,
-		"name": ""
+		"name": "Aries RP #1",
+		"online": true,
+		"numplayers": 0,
+		"maxplayers": 100,
+		"ping": 0
 	}
-
 ]
+
